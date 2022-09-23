@@ -21,7 +21,7 @@ In this project i have created a clone of **Shopify** website using **HTML** and
 
 ## Time taken to finish this project
 
-![14 Hours](https://img.shields.io/badge/-14%20Hours-orange)
+![12 Hours](https://img.shields.io/badge/-12%20Hours-orange)
 
 ### You can Check it Live on Below Link :
 
